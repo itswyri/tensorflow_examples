@@ -12,4 +12,4 @@ This is an archive for tensorflow examples collected from web and refactored for
 - TensorFlow 1.0.0
 
 ## Note
-If you find missing credits. Please let me know. 
+If you find missing credits, please let me know. 
