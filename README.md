@@ -3,7 +3,8 @@
 This is an archive for tensorflow examples collected from web and refactored for the easiness and reproducibility. 
 
 ## Contents
-1. Class Activation Map: [Learning Deep Features for Discriminative Localization, CVPR16](http://cnnlocalization.csail.mit.edu)
+1. Basic Usage: [[code]](https://github.com/itswyri/tensorflow_examples/blob/master/basic_usage.ipynb)
+2. Class Activation Map: [Learning Deep Features for Discriminative Localization, CVPR16](http://cnnlocalization.csail.mit.edu)
     - CAM with pretrained VGG19 and Caltech 101 dataset [[code](https://github.com/itswyri/tensorflow_examples/blob/master/cam_vgg.ipynb)]
     - CAM with pretrained VGG19 and custom eye diseases dataset [[code](https://github.com/itswyri/tensorflow_examples/blob/master/cam_vgg_eye.ipynb)]
 
