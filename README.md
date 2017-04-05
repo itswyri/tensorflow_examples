@@ -13,7 +13,7 @@ This is an archive for tensorflow examples collected from web and refactored for
     - CAM with pretrained VGG19 and custom eye diseases dataset [[code](https://github.com/itswyri/tensorflow_examples/blob/master/cam_vgg_eye.ipynb)]
     - (*co worked w/ [sjchoi86](https://github.com/sjchoi86)*)
 
-## Tested environment
+## Tested Environment
 - Python 3.5
 - TensorFlow 1.1.0rc0
 
