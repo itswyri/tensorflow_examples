@@ -3,7 +3,7 @@
 This is an archive for tensorflow examples collected from web and refactored for the easiness and reproducibility. 
 
 ## Contents
-1. Basic Usage: [[code]](https://github.com/itswyri/tensorflow_examples/blob/master/basic_usage.ipynb)
+1. Basic Usage: [[code](https://github.com/itswyri/tensorflow_examples/blob/master/basic_usage.ipynb)]
 2. TFRecords Usage
     - Custom image dataset to tfrecords file: [[code](https://github.com/itswyri/tensorflow_examples/blob/master/convert_to_record_example.ipynb)]
     - Reading tfrecords file using queue: [[code](https://github.com/itswyri/tensorflow_examples/blob/master/read_record_example.ipynb)]
