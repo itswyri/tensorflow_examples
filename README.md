@@ -5,8 +5,10 @@ This is an archive for tensorflow examples collected from web and refactored for
 ## Contents
 1. Basic Usage: [[code](https://github.com/itswyri/tensorflow_examples/blob/master/basic_usage.ipynb)]
 2. TFRecords Usage
-    - Custom image dataset to tfrecords file: [[code](https://github.com/itswyri/tensorflow_examples/blob/master/convert_to_record_example.ipynb)]
-    - Reading tfrecords file using queue: [[code](https://github.com/itswyri/tensorflow_examples/blob/master/read_record_example.ipynb)]
+    - Custom image dataset to tfrecords file: [[naive](https://github.com/itswyri/tensorflow_examples/blob/master/convert_to_records_example.ipynb)] 
+     [[slim](https://github.com/itswyri/tensorflow_examples/blob/master/convert_to_records_example_slim.ipynb)]
+    - Reading tfrecords file using queue: [[naive](https://github.com/itswyri/tensorflow_examples/blob/master/read_records_example.ipynb)] 
+     [[slim](https://github.com/itswyri/tensorflow_examples/blob/master/read_records_example_slim.ipynb)]
     - Useful tutorials: [[page](https://github.com/itswyri/tensorflow_examples/blob/master/tfrecords_useful_links.ipynb)]
 4. Class Activation Map: [[Learning Deep Features for Discriminative Localization, CVPR16]](http://cnnlocalization.csail.mit.edu)
     - CAM with pretrained VGG19 and Caltech 101 dataset [[code](https://github.com/itswyri/tensorflow_examples/blob/master/cam_vgg.ipynb)]
