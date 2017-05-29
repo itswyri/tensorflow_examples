@@ -14,6 +14,8 @@ This is an archive for tensorflow examples collected from web and refactored for
     - CAM with pretrained VGG19 and Caltech 101 dataset [[code](https://github.com/itswyri/tensorflow_examples/blob/master/cam_vgg.ipynb)]
     - CAM with pretrained VGG19 and custom eye diseases dataset [[code](https://github.com/itswyri/tensorflow_examples/blob/master/cam_vgg_eye.ipynb)]
     - (*co worked w/ [sjchoi86](https://github.com/sjchoi86)*)
+5. Multiple Kernel MMD (Maximum Mean Discrepancy) - Domain Adaptation Network:  
+   [[code](https://github.com/itswyri/tensorflow_examples/blob/master/mkmmd_dan.ipynb)]
 5. Info GAN: [[InfoGAN: Interpretable representation learning by information maximizing generative adversarial nets. 2016.](<https://arxiv.org/abs/1606.03657>)] [[code](https://github.com/itswyri/tensorflow_examples/blob/master/info_gan.ipynb)]
 
 ## Tested Environment
